@@ -5,7 +5,7 @@ var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
 if ( username == "sabir516" && password == "123456"){
 alert ("Login successfully");
-window.location = "https://app.mockplus.com/e/68SkVwKg3wS8b"; // Redirecting to other page.
+window.location = "https://rp.mockplus.com/run/MdReL6a4pa/vZS7ZJEv0R?isFrame=true&moduleID=boNpVIEVjNS-"; // Redirecting to other page.
 return false;
 }
 else{
