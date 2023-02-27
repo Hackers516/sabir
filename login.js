@@ -3,9 +3,9 @@ var attempt = 3; // Variable to count number of attempts.
 function validate(){
 var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
-if ( username == "muzamil" && password == "123456"){
+if ( username == "sabir516" && password == "123456"){
 alert ("Login successfully");
-window.location = "https://goose-collie-ncnc.squarespace.com"; // Redirecting to other page.
+window.location = "https://app.mockplus.com/e/68SkVwKg3wS8b"; // Redirecting to other page.
 return false;
 }
 else{
